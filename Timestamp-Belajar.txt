@@ -1,0 +1,16 @@
+Time Stamps 👇
+00:00:00 Intro [DONE]
+00:12:35 Auth [DONE]
+00:27:31 HomePage [DONE]
+01:03:35 Onboarding [ONGOING]
+01:58:17 Back-end
+02:51:42 fetchPosts Homepage
+03:01:06 Thread Card Structure
+03:25:33 Reply/Comment
+03:45:40 Profile Page
+04:16:15 Search Page 
+04:33:55 Activity Page
+04:50:15 Community Page
+05:03:27 Expose API’s Route Deployment
+05:45:27 Task
+05:46:50 Final Deployment
