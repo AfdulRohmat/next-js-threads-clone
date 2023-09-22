@@ -30,9 +30,6 @@ yarn-error.log*
 # vercel
 .vercel
 
-# TIMESTAMP BELAJAR
-.Timestamp-Belajar.txt
-
 # typescript
 *.tsbuildinfo
 next-env.d.ts

@@ -2,7 +2,7 @@ Time Stamps 👇
 00:00:00 Intro [DONE]
 00:12:35 Auth [DONE]
 00:27:31 HomePage [DONE]
-01:03:35 Onboarding [ONGOING]
+01:03:35 Onboarding [ONGOING] Menit 2:25:20 
 01:58:17 Back-end
 02:51:42 fetchPosts Homepage
 03:01:06 Thread Card Structure
